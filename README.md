@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# Personal portfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/simo-ce/portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/simo-ce/portfolio?style=social)
