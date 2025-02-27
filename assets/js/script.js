@@ -120,20 +120,39 @@ const form = document.querySelector("[data-form]");
 const formInputs = document.querySelectorAll("[data-form-input]");
 const formBtn = document.querySelector("[data-form-btn]");
 
+const contactForm = {
+
+}
+
 // add event to all form input field
 for (let i = 0; i < formInputs.length; i++) {
   formInputs[i].addEventListener("input", function () {
-
     // check form validation
     if (form.checkValidity()) {
       formBtn.removeAttribute("disabled");
     } else {
       formBtn.setAttribute("disabled", "");
     }
-
   });
 }
 
+form.addEventListener('submit', function (event) {
+  event.preventDefault();
+  fetch(form.action, {
+    method: 'POST',
+    body: new FormData(form),
+    headers: { 'Accept': 'application/json' }
+  }).then(res => {
+    if (res.ok) {
+      formBtn.style.maxWidth = '50em';
+      formBtn.innerHTML = 'Your message has been sent';
+      form.reset();
+    } else {
+      formBtn.style.maxWidth = '50em';
+      formBtn.innerHTML = 'Oops! Something went wrong';
+    }
+  });
+});
 
 
 // page navigation variables
