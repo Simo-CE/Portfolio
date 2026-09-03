@@ -1,8 +1,7 @@
-import { readFileSync } from "fs";
-import { join } from "path";
 import type { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import ResumeHeader from "@/lib/components/ResumeHeader";
+import content from "@/lib/data/resume.md";
 
 export const metadata: Metadata = {
   title: "Resume",
@@ -16,9 +15,6 @@ export const metadata: Metadata = {
 };
 
 export default function ResumePage() {
-  const filePath = join(process.cwd(), "src/lib/data/resume.md");
-  const content = readFileSync(filePath, "utf-8");
-
   return (
     <div className="min-h-screen">
       <ResumeHeader />
