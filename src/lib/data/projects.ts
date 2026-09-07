@@ -60,7 +60,7 @@ export const projects: LabProject[] = [
     status: "production",
     category: "professional",
     role: "Lead Full-Stack Developer",
-    year: "2024 — 2026",
+    year: "2025 — 2026",
     company: "BitTasker",
     techStack: [
       "SvelteKit",

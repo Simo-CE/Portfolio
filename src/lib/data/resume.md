@@ -112,7 +112,7 @@ I care about making complex products feel simple, intuitive, and reliable — an
 
 ### Bachelor of Computer Engineering · Polydisciplinary Faculty of Taroudant
 
-**2018 – 2021**
+**2018 – 2022**
 
 ---
 
