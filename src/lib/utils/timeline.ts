@@ -10,7 +10,7 @@ export const timelineEvents = [
   {
     id: 1,
     icon: "Layers",
-    year: "2024 — 2026",
+    year: "2025 — 2026",
     title: "Lead Full-Stack Developer",
     company: "BitTasker",
     type: "work",
