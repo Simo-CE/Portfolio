@@ -20,7 +20,7 @@ I care about making complex products feel simple, intuitive, and reliable — an
 
 ### Lead Full-Stack Developer · BitTasker
 
-**2024 – 2026**
+**Mar 2025 – Aug 2026**
 
 - Built a decentralized freelance marketplace with bringing together cryptographic user-owned identity, reputation, and escrow-based payments.
 - Led frontend development while working across the stack to connect the marketplace, authentication, messaging, contracts, and settlement systems.
@@ -31,11 +31,11 @@ I care about making complex products feel simple, intuitive, and reliable — an
 - Built a reminders and notification system covering 80+ notification types across multiple categories.
 - Automated web and mobile releases through GitLab CI pipelines.
 
-**Stack:** SvelteKit · Capacitor · NestJS · Prisma · PostgreSQL · Nostr · Solidity · Rootstock · Cloudflare · WebAuthn · Firebase · GitLab CI
+**Stack:** SvelteKit · TypeScript · Tailwind CSS · Capacitor · NestJS · Prisma · PostgreSQL · Nostr · Solidity · Rootstock · Cloudflare · WebAuthn · Docker · Playwright · Firebase · GitLab CI
 
-### Frontend Developer · KJR TeleCom — YooDooGood
+### Front-End Developer · KJR TeleCom — YooDooGood
 
-**2023 – 2025**
+**Mar 2023 – Sep 2025**
 
 - Built a gamified rewards platform where users earn in-app currency through casual games, offerwalls, surveys, cashback, advertising, and daily rewards, then compete for physical prizes.
 - Developed 13+ casual games across puzzle, arcade, trivia, and card genres, including a configurable minimax-based Connect 4 opponent.
@@ -44,19 +44,21 @@ I care about making complex products feel simple, intuitive, and reliable — an
 - Built a backoffice dashboard for monitoring users, transactions, game analytics, and platform operations.
 - Developed and maintained the platform as a cross-device Progressive Web App, continuously improving performance, stability, and features.
 
-**Stack:** SvelteKit · TypeScript
+**Stack:** SvelteKit · TypeScript · JavaScript · Tailwind CSS · Canavas · UI/UX
 
-### Freelance Frontend Developer · Immense
+### Freelance Front-End Developer · Immense
 
-**2023**
+**Apr 2023 – Sep 2023**
 
 - Built a role-based workforce management platform for construction companies, combining interactive training and certification workflows.
 - Developed resource assignment, data management, reporting, certification generation, and workforce analytics features.
 - Added internationalization support for multi-language deployment.
 
+**Stack:** Next.js · React.js · TypeScript · Tailwind CSS · Chart.js · i18n
+
 ### Full-Stack Developer · Big M Solutions
 
-**2022 – 2023**
+**Aug 2022 – Feb 2023**
 
 - Shipped three production applications within a microservices-based SaaS ecosystem, covering a merchant dashboard, spa booking web application, and mobile-ready backoffice.
 - Built the MVault merchant dashboard for managing users, orders, invoicing, subscriptions, and company operations.
@@ -65,26 +67,26 @@ I care about making complex products feel simple, intuitive, and reliable — an
 - Packaged the backoffice as a mobile application with Capacitor, with separate permissions for super-users and managers.
 - Standardized authentication, role-based access control, and internationalization across applications.
 
-**Stack:** Nuxt.js · Vue.js · TypeScript · Node.js · Express.js
+**Stack:** Nuxt.js · Vue.js · TypeScript · Tailwind CSS · GraphQL · Capacitor · i18n
 
 ### Junior Software Engineer · Pixon Digital — Kinshi
 
-**2021 – 2022**
+**Feb 2021 – Jul 2022**
 
 - Built and maintained a classifieds marketplace with category navigation, listing search, and subscription-based boosts.
 - Developed the Kinshi backoffice for user management, listing moderation, order tracking, and platform administration.
 - Built an automated scraping and crawling system that collected listings from external websites to expand the platform catalog.
 - Contributed to the API gateway and production data flows, while also delivering websites and ongoing features for agency clients.
 
-**Stack:** Next.js · Redux · Tailwind CSS · Node.js · Express.js · Sequelize ORM
+**Stack:** Next.js · React.js · Redux · Tailwind CSS · JavaScript · Node.js · Express.js · Sequelize ORM
 
 ### Full-Stack Developer Intern · Agri 4.0
 
-**2021 – 2022**
+**May 2021 – Jun 2021**
 
 - Developed a nursery garden management dashboard system for tracking inventory, sales, and customer information.
 
-**Stack:** React · SCSS
+**Stack:** React · JavaScript · SCSS
 
 ## PROJECTS
 
