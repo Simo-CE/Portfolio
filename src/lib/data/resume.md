@@ -25,7 +25,7 @@ I care about making complex products feel simple, intuitive, and reliable — an
 - Built a decentralized freelance marketplace with bringing together cryptographic user-owned identity, reputation, and escrow-based payments.
 - Led frontend development while working across the stack to connect the marketplace, authentication, messaging, contracts, and settlement systems.
 - Built passwordless authentication with WebAuthn and cryptographic identity verification, alongside a Nostr layer supporting 16 NIPs and 35+ custom event kinds.
-- Designed gasless on-chain payments around Rootstock escrow contracts, and built supporting wallet infrastructure.
+- IntegratedN gasless on-chain payments around Rootstock escrow contracts, and built supporting wallet infrastructure.
 - Developed a multi-chain wallet SDK supporting HD key derivation, atomic swaps, EVM transactions, and gasless claiming.
 - Built a verifiable reputation system that connects reviewer identities with proof of completed on-chain settlements.
 - Built a reminders and notification system covering 80+ notification types across multiple categories.
@@ -54,9 +54,9 @@ I care about making complex products feel simple, intuitive, and reliable — an
 - Developed resource assignment, data management, reporting, certification generation, and workforce analytics features.
 - Added internationalization support for multi-language deployment.
 
-**Stack:** Next.js · React.js · TypeScript · Tailwind CSS · Chart.js · i18n
+**Stack:** Next.js · React.js · TypeScript · Redux.js · Tailwind CSS · Chart.js · i18n · Netlify
 
-### Full-Stack Developer · Big M Solutions
+### Front-End Developer · Big M Solutions
 
 **Aug 2022 – Feb 2023**
 
